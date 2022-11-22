@@ -33,7 +33,7 @@ export default function Footer() {
                                 <li><a href="/G2021">Photo 2021</a></li>
                                 <li><a href="/G2022">Photo 2022</a></li>
                                 <li><a href="/V2021">Video 2021</a></li>
-                                <li><a href="blog.html">Video 2022</a></li>
+                                <li><a href="/V2022">Video 2022</a></li>
                             </ul>
                         </div>
                         </div>
@@ -44,7 +44,7 @@ export default function Footer() {
                             {/* <!-- links --> */}
                             <ul>
                             <li><a href="/about">About</a></li>
-                            <li><a href="/curation">Curation</a></li>
+                            <li><a href="/curation1">Curation</a></li>
                             <li><a href="/document_writter">Documents Reguired</a></li>
                             </ul>
                         </div>
