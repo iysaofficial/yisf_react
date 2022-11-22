@@ -29,7 +29,7 @@ export default function Banner() {
                     <div className="container">
                         <div className="row align-items-center">
                             <div className="col-md-6 order-2 order-md-1 text-center text-md-left">
-                                <h1 className="text-white mb-4 banner-txt">Youthh International Science Fair 2023</h1>
+                                <h1 className="text-white mb-4 banner-txt">Youth International Science Fair 2023</h1>
                                 <p className="text-white font-weight-light mb-5">(Open Registration)</p>
                                 
                         <div className="row">
