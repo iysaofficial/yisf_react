@@ -1,6 +1,5 @@
 {
   "name": "router-app",
-  "home": "https://yisf.or.id/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
