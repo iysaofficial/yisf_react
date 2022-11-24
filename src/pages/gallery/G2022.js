@@ -14,7 +14,7 @@ function G2022() {
         "images/gallery/2022/28.jpg",
         "images/gallery/2022/29.jpg",
         "images/gallery/2022/30.jpg",
-        "images/gallery/2022/31.jpg",
+        "images/gallery/2022/31.JPG",
         "images/gallery/2022/32.jpg",
         "images/gallery/2022/33.jpg",
         "images/gallery/2022/34.jpg",
