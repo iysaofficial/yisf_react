@@ -6,7 +6,7 @@ function GuideBook() {
                 <div className="container">
                     <div className="col-md-12">
 
-                        <iframe src="images/pdf/GUIDE BOOK YISF 2023.pdf" width="100%" height="800"></iframe>
+                        <iframe src="images/pdf/GUIDE BOOK YISF 2023 FIX.pdf" width="100%" height="800"></iframe>
                         
                     </div>
                 </div>
